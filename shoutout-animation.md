@@ -1,5 +1,5 @@
 ---
 layout: nil
 permalink: /shoutout-animation/
-redirect_to: "https://github.com/csvaliant/assets/blob/995d2d3b71a1114ee6e7f1b06798b6171713c56d/AMMIMT-RR-animation.webp"
+redirect_to: "https://raw.githubusercontent.com/csvaliant/assets/refs/heads/main/AMMIMT-RR-animation.webp"
 ---
